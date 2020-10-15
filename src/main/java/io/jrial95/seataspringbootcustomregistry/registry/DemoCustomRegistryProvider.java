@@ -1,4 +1,4 @@
-package io.jrial95.seataspringbootcustomregistry.seata;
+package io.jrial95.seataspringbootcustomregistry.registry;
 
 import io.seata.common.loader.LoadLevel;
 import io.seata.config.ConfigChangeListener;
